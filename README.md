@@ -93,6 +93,7 @@ These files were merged into a single dataset for analysis.
 
 ## 📂 Repository Structure
 
+```yaml
 📦 pizza-place-sales-analysis
 ├── data/
 │ ├── orders.csv
@@ -101,6 +102,7 @@ These files were merged into a single dataset for analysis.
 │ └── pizza_types.csv
 ├── sales-analysis.ipynb
 └── README.md
+```
 
 ---
 
