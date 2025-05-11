@@ -1,4 +1,4 @@
-# 🍕 Pizza Place Sales Analysis
+# 📊 Pizza Place Sales Analysis 📊
 
 This project contains a complete analysis of a fictitious pizza place's sales data over one year. The goal is to extract meaningful insights from the data to improve business decisions using Python and visualizations.
 
